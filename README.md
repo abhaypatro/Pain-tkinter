@@ -1,2 +1,2 @@
 # tkinter
-Projects made using tkinter
+Projects made using python's library tkinter
